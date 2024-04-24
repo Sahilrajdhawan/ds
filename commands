@@ -2,6 +2,7 @@ ass1:
 Terminal 1:
 javac *.java
 rmic AddServerImpl
+//rmiregistry
 Terminal 2:
 rmiregistry
 Terminal 3:
